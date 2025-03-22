@@ -68,8 +68,8 @@ bash ./install.sh
 ```
 /obsidian-repo
 ├── .obsidian
-├── 00 关于本资料库的使用方式
-├── 00-1 obsidian 模板
+├── 00 manual
+├── 00-1 template
 ```
 
 插件及配置同步完毕。
