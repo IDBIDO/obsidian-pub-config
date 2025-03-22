@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 manual/test.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "README"
             }
           }
         ]
@@ -193,6 +193,7 @@
   },
   "active": "5bc5fd736775f6e1",
   "lastOpenFiles": [
+    "00 manual/test.md",
     "00 manual/markdown语法.md",
     "00-1 template/07 文件标签模板.md",
     "00-1 template/06 python模板.md",
@@ -201,7 +202,6 @@
     "00-1 template/03 bash代码段.md",
     "00-1 template/02 mysql代码段.md",
     "00-1 template/01 ai写作说明.md",
-    "00 manual/test.md",
     "Essay/2. International travel.md",
     "Excalidraw/Drawing 2025-03-21 23.51.22.excalidraw.md",
     "obsidian-pub-config/syncLocal.sh",
