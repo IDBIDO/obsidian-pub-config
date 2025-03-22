@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00 manual/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "test"
             }
           }
         ]
@@ -183,6 +183,8 @@
   },
   "active": "5bc5fd736775f6e1",
   "lastOpenFiles": [
+    "00 manual/关于本资料库的使用方式.md",
+    "README.md",
     "00 manual/test.md",
     "00 manual/markdown语法.md",
     "00-1 template/07 文件标签模板.md",
@@ -225,8 +227,6 @@
     "00-1 template/textgenerator/templates/default/summarizeLarge.md",
     "00-1 template/textgenerator/templates/default/大纲.md",
     "00-1 template/textgenerator/templates/default/getParagraph.md",
-    "00-1 template/textgenerator/templates/default/扩写.md",
-    "00-1 template/textgenerator/templates/default/simplify.md",
     "00 manual/附件/Pasted image 20250122151051.png",
     "00 manual/附件/Pasted image 20240306144256.png"
   ]
