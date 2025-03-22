@@ -3,8 +3,7 @@
   "providers": [
     {
       "type": "openai",
-      "id": "openai",
-      "apiKey": ""
+      "id": "openai"
     },
     {
       "type": "anthropic",
