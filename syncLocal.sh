@@ -7,7 +7,7 @@ rmAndCp() {
 
 rmAndCp "./.obsidian" "../.obsidian" "./"
 rmAndCp "./.00 manual" "../00 manual" ".00 manual"
-rmAndCp "./.00-1 template" "../00-1 template" ".00-1 obsidian template"
+rmAndCp "./.00-1 template" "../00-1 template" ".00-1 template"
 
 # 检查是否有变更，如果有变更，则进行提交	
 if git status | grep -q "modified"; then
