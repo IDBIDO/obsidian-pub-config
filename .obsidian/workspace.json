@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -191,7 +191,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5bc5fd736775f6e1",
+  "active": "eb063286fe48e6df",
   "lastOpenFiles": [
     "00 manual/test.md",
     "00 manual/markdown语法.md",
