@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "722a10217d4faef9",
+        "id": "51ccf159777fc675",
         "type": "tabs",
         "children": [
           {
-            "id": "5bc5fd736775f6e1",
+            "id": "d13f1a889253a319",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 manual/test.md",
+                "file": "Essay/3. The importance of both general and specialized education.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "3. The importance of both general and specialized education"
             }
           }
         ]
@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-1 obsidian 模板/Test.md",
+                "file": "Essay/2. International travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test"
+              "title": "Backlinks for 2. International travel"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-1 obsidian 模板/Test.md",
+                "file": "Essay/3. The importance of both general and specialized education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test"
+              "title": "Outgoing links from 3. The importance of both general and specialized education"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-1 obsidian 模板/Test.md",
+                "file": "Essay/2. International travel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline of 2. International travel"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-tts:Text to Speech": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,57 +178,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "smart-composer:Open smart composer": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5bc5fd736775f6e1",
+  "active": "d13f1a889253a319",
   "lastOpenFiles": [
-    "00 manual/关于本资料库的使用方式.md",
+    "Inversion/Untitled.canvas",
+    "Inversion/236 关税.md",
+    "Inversion/111. 机构推动的市场.md",
+    "Essay/3. The importance of both general and specialized education.md",
+    "Essay/Drawing 2025-03-27 23.21.36.excalidraw.md",
+    "Inversion/99. 长期期权Leaps投资.md",
+    "Essay/2. International travel.md",
+    "English/Over.md",
+    "English",
+    "Excalidraw/Drawing 2025-03-24 09.12.52.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-21 23.51.23.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-21 23.51.22.excalidraw.md",
+    "Inversion/Rhino",
+    "Inversion",
+    "Untitled 1.md",
     "README.md",
-    "00 manual/test.md",
+    "Untitled.md",
+    "ChatGPT",
+    "Office Tool/Obsidian auto syncronization using Git.md",
+    "obsidian-pub-config/README.md",
+    "Office Tool/attachments/Pasted image 20250322124041.png",
+    "Office Tool/attachments/Pasted image 20250322123908.png",
+    "Office Tool/attachments",
+    "Git/Add SSH keys.md",
+    "Git/attachments/add_ssh_key_location_github.png",
     "00 manual/markdown语法.md",
+    "Git/attachments/Pasted image 20250322120601.png",
+    "Git/attachments",
+    "Pasted image 20250322115744.png",
+    "Git",
+    "00 manual/test.md",
+    "00 manual/关于本资料库的使用方式.md",
     "00-1 template/07 文件标签模板.md",
     "00-1 template/06 python模板.md",
     "00-1 template/05 java代码段.md",
     "00-1 template/04 c++代码段.md",
     "00-1 template/03 bash代码段.md",
     "00-1 template/02 mysql代码段.md",
-    "00-1 template/01 ai写作说明.md",
-    "Essay/2. International travel.md",
-    "Excalidraw/Drawing 2025-03-21 23.51.22.excalidraw.md",
     "obsidian-pub-config/syncLocal.sh",
     "obsidian-pub-config/LICENSE",
     "obsidian-pub-config/install.sh",
-    "obsidian-pub-config/README.md",
-    "obsidian-pub-config",
-    "obsidian-pub-config/README.md.BASE.md",
-    "obsidian-pub-config/README.md.REMOTE.md",
-    "obsidian-pub-config/README.md.LOCAL.md",
-    "obsidian-pub-config/obsidian/workspaces.json",
-    "obsidian-pub-config/obsidian/workspace",
-    "obsidian-pub-config/obsidian/themes/Yin and Yang.css",
-    "obsidian-pub-config/obsidian/themes/Minimal.css",
-    "obsidian-pub-config/obsidian/themes/Blue Topaz.css",
-    "obsidian-pub-config/obsidian/themes",
-    "obsidian-pub-config/obsidian/plugins/Enhanced-editing-main/README.md",
     "obsidian-pub-config/00 关于本资料库的使用方式/附件/设置自定义样式.png",
     "obsidian-pub-config/00 关于本资料库的使用方式/附件/视频列表获取示例2.png",
     "obsidian-pub-config/00 关于本资料库的使用方式/附件/视频列表获取示例.png",
-    "obsidian-pub-config/00 关于本资料库的使用方式/附件/插图测试.md",
     "obsidian-pub-config/00 关于本资料库的使用方式/附件/Pasted image 20220724232328.png",
-    "obsidian-pub-config/00 关于本资料库的使用方式/附件/Pasted image 20220724231722.png",
-    "obsidian-pub-config/00 关于本资料库的使用方式/附件/Pasted image 20220724231521.png",
-    "obsidian-pub-config/00 关于本资料库的使用方式/附件/Pasted image 20220724231651.png",
-    "obsidian-pub-config/00 关于本资料库的使用方式/附件/Pasted image 20220724231433.png",
-    "obsidian-pub-config/00 关于本资料库的使用方式/关于本资料库的使用方式.md",
-    "Excalidraw/Drawing 2025-03-21 23.51.23.excalidraw.md",
-    "00-1 obsidian 模板/Test.md",
-    "00-1 template/textgenerator/templates/default/getTags.md",
-    "00-1 template/textgenerator/templates/default/summarizeLarge.md",
-    "00-1 template/textgenerator/templates/default/大纲.md",
-    "00-1 template/textgenerator/templates/default/getParagraph.md",
-    "00 manual/附件/Pasted image 20250122151051.png",
-    "00 manual/附件/Pasted image 20240306144256.png"
+    "obsidian-pub-config/00 关于本资料库的使用方式/附件/Pasted image 20220724231722.png"
   ]
 }

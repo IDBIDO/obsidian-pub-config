@@ -1,5 +1,10 @@
 [
   "obsidian-git",
   "obsidian-languagetool-plugin",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-tts",
+  "file-explorer-note-count",
+  "better-export-pdf",
+  "obsidian-outliner",
+  "obsidian-another-quick-switcher"
 ]
